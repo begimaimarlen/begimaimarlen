@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @begimaimarlen
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning R. 
-- 💞️ I’m looking to collaborate on empirical research. 
 - 📫 How to reach me begimai.marlenova@tum.de
 
 <!---
