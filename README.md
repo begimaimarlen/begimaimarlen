@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @begimaimarlen
+- 👋 Hi, I’m Begimai Marlenova
 - 📫 How to reach me begimai.marlenova@tum.de
 
 <!---
