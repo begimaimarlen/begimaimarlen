@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Begimai Marlenova
-- 📫 How to reach me begimai.marlenova@tum.de
+- 📫 How to reach me begimai.marlen@gmail.com
 
 <!---
 begimaimarlen/begimaimarlen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
